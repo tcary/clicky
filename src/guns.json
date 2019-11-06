@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.thetrace.org/wp-content/uploads/2019/05/ghostgun-03.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://the-drive-2.imgix.net/https%3A%2F%2Fapi.thedrive.com%2Fwp-content%2Fuploads%2F2019%2F04%2Facp9k-1.jpg%3Fquality%3D85?w=1440&auto=compress%2Cformat&ixlib=js-1.4.1&s=8c5872b795b5f33338fd0223e1b1fd19",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.shopify.com/s/files/1/1980/1771/products/Replica-AR-15-Gun-Model_large.jpg?v=1561053854",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51NqKMBzYpL._SL1000_.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKhRr9crqSrtBtzNW1kDQuC0C8GCS_-V7nHMwAqMRVOy_M7EaN_Q&s",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://assets.academy.com/mgen/71/20039771.jpg?is=150,150?$d-plp-top-categories$",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://www.cheaperthandirt.com/on/demandware.static/-/Sites-ctd-site-catalog/default/dw85be466d/images/Rifle-Image.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "http://www.beretta.com/assets/12/13/580x435_APX1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201909/762776266.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://nationalinterest.org/sites/default/files/styles/desktop__1260_/public/main_images/RTS1ORG3_3.jpg?itok=BO4563le",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://media.mwstatic.com/product-images/src/primary/964/964550.jpg?imwidth=320",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://s7d2.scene7.com/is/image/academy/20084685?$m-pdp-product-image$",
+    "clicked": false
+  }
+]
